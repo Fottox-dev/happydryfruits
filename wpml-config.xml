@@ -1,0 +1,35 @@
+<wpml-config>
+    <admin-texts>
+		<key name="miti_theme_options">
+            <key name="ts_text_logo" />
+            <key name="ts_header_store_notice" />
+            <key name="ts_footer_block" />
+            <key name="ts_portfolio_custom_field_title" />
+            <key name="ts_portfolio_custom_field_content" />
+            <key name="ts_product_new_label_text" />
+            <key name="ts_product_sale_label_text" />
+            <key name="ts_product_feature_label_text" />
+            <key name="ts_product_out_of_stock_label_text" />
+            <key name="ts_prod_custom_tab_title" />
+            <key name="ts_prod_custom_tab_content" />
+            <key name="ts_prod_ads_banner_content" />
+        </key>   
+    </admin-texts>   
+	<custom-types>
+		<custom-type translate="1">ts_portfolio</custom-type>
+		<custom-type translate="1">ts_team</custom-type>
+		<custom-type translate="1">ts_testimonial</custom-type>
+		<custom-type translate="1">ts_logo</custom-type>
+		<custom-type translate="1">ts_footer_block</custom-type>
+		<custom-type translate="1">ts_mega_menu</custom-type>
+		<custom-type translate="1">ts_size_chart</custom-type>
+		<custom-type translate="1">product</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">ts_portfolio_cat</taxonomy>
+		<taxonomy translate="1">ts_testimonial_cat</taxonomy>
+		<taxonomy translate="1">ts_logo_cat</taxonomy>
+		<taxonomy translate="1">ts_product_brand</taxonomy>
+		<taxonomy translate="1">product_cat</taxonomy>
+	</taxonomies>
+</wpml-config>
